@@ -1,0 +1,65 @@
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.Cache
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmRegistration.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMessageSearch.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMessageSearch.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmRegistration.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMessageSearch.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmRegistration.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9 txt window attempt end\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMessageSearch.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmRegistration.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMessageSearch.resources
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmRegistration.resources
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\Downloads\ChatAppV9 txt window\ChatAppV9 txt window\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb

@@ -1,0 +1,12 @@
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Form1.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmLogin.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.frmMain.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.Properties.Resources.resources
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.GenerateResource.Cache
+c:\users\acer\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe.config
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\bin\Debug\ChatAppV9.pdb
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.exe
+C:\Users\ACER\source\repos\ChatAppV9\ChatAppV9\obj\Debug\ChatAppV9.pdb

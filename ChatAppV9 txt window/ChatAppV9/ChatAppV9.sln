@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppV9", "ChatAppV9\ChatAppV9.csproj", "{8D900260-AFC6-4190-A29A-392D75F9E33D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupChatAppV9er", "SetupChatAppV9er\SetupChatAppV9er.vdproj", "{C71401D6-B571-4740-9AB6-622F89CBD43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D900260-AFC6-4190-A29A-392D75F9E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D900260-AFC6-4190-A29A-392D75F9E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D900260-AFC6-4190-A29A-392D75F9E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D900260-AFC6-4190-A29A-392D75F9E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71401D6-B571-4740-9AB6-622F89CBD43E}.Debug|Any CPU.ActiveCfg = Debug
+		{C71401D6-B571-4740-9AB6-622F89CBD43E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6151742E-1F87-4407-9BFE-3888D4867993}
+	EndGlobalSection
+EndGlobal
