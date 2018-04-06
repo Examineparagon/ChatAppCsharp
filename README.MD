@@ -1,6 +1,9 @@
 ChatApplication
+
 Chat Application Project - Database Programming
+
 Description
+
 This is a chat application designed in Database Programming class. We were asked to make a chat application with the following guidelines.
 
 The form will have a login: email and password.
@@ -15,12 +18,15 @@ For example: Elad-PC, or your Mac Address.
 Messages will be displayed by the order they were sent, with the latest one next to the text box.
 
 Send an Email to every new user
+
 Getting Started
+
 Installation
 - Download the .zip file, and open the .sln file in Visual Studio. 
 - Build the .exe by running the code within visual studio.
 - Locate the .exe file that was created within the applications subfolders.
 - Run the exe. 
+
 Prerequisites
 Microsoft Visual Studio
 Internet Connection
@@ -29,5 +35,7 @@ Microsoft Visual Studio - Used to design the interface and create the applicatio
 Microsoft SSMS - Used as a database tool
 Version
 Current Version: 1.0
+
 Authors
+
 Philip Warren - Database Programming student.
